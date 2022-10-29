@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.exe
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.deps.json
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.runtimeconfig.json
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.dll
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\bin\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.pdb
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.dll
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.pdb
+C:\Users\Admin\source\repos\UpcastindvsDowncastingforPractise\obj\Debug\netcoreapp3.1\UpcastindvsDowncastingforPractise.genruntimeconfig.cache
